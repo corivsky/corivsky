@@ -1,0 +1,5 @@
+﻿  hannuo.cpp
+  main.cpp
+f:\project\hannuotadigui\hannuotadigui\main.cpp(9): warning C4129: “.”: 不可识别的字符转义序列
+  正在生成代码...
+  hannuotadigui.vcxproj -> F:\project\hannuotadigui\Debug\hannuotadigui.exe
