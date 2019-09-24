@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+f:\project\hannuota\hannuota\consoleapplication1.cpp(43): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\project\hannuota\hannuota\consoleapplication1.cpp(43): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  f:\project\hannuota\hannuota\consoleapplication1.cpp(43): note: 缺失的可变参数 1 为格式字符串“%d”所需
+f:\project\hannuota\hannuota\consoleapplication1.cpp(222): warning C4129: “.”: 不可识别的字符转义序列
+  hannuota.vcxproj -> F:\project\hannuota\Debug\hannuota.exe
